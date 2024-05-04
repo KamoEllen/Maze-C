@@ -72,4 +72,5 @@ This project was completed as part of the curriculum for _Alx-Africa_, a full-st
 400000000
 
 
-
+#Open .o file
+https://stackoverflow.com/questions/36002159/how-to-open-o-file
