@@ -34,3 +34,24 @@ This project was completed as part of the curriculum for _Alx-Africa_, a full-st
 - **p**: Player start position
 - All other characters will be defaulted to white walls
 
+  idea for maze
+  2222222222222222
+20000000000000002
+ 20p00000000000002
+  20000002200000002
+   20000022000000002
+    20000000000000002
+     2222222222222002
+                 2002
+                  2002
+                   2002
+                    20021111111101
+                     200000000001
+                      20011111111
+                       2002
+                        2002
+                         2002
+                          1111
+                           11
+
+
