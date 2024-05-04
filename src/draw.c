@@ -1,6 +1,6 @@
 /*
  * File: draw.c
- * Auth: Elysée NIYIBIZI
+ * Auth: Kamogelo Ellen Kganakga
  *
  */
 
