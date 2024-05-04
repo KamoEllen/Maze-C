@@ -26,8 +26,8 @@ This project was completed as part of the curriculum for _Alx-Africa_, a full-st
 
 **Map File Characters' in Game Meanings**
 - **0**: Floor/walkable space
-- **1**: Red Wall
-- **2**: Green Wall
+- **2**: Red Wall
+- **1**: Green Wall
 - **3**: Blue Wall
 - **4**: Yellow Wall
 - **w**: End goal
