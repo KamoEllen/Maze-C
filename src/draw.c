@@ -97,40 +97,40 @@ void choose_color(SDL_Instance instance, char **map, int_s coord, int hit_side)
 {
 		switch (map[coord.x][coord.y])
 		{
-		case '1':
+		case '2':
 			/* Champagne Pink */
 			if (hit_side == 0)
 				SDL_SetRenderDrawColor(instance.renderer,247, 231, 206, 1.0);
 			else
 				SDL_SetRenderDrawColor(instance.renderer, 0x88, 0, 0, 0xFF);
 			break;
-		case '2':
+		case '1':
 			/* Sapphire Blue */
 			if (hit_side == 0)
 				SDL_SetRenderDrawColor(instance.renderer,15, 82, 186, 1.0);
 			else
-				SDL_SetRenderDrawColor(instance.renderer, 0, 0x88, 0, 0xFF);
+				SDL_SetRenderDrawColor(instance.renderer, 255, 255, 0);
 			break;
 		case '3':
 			/* Emerald Green */
 			if (hit_side == 0)
 				SDL_SetRenderDrawColor(instance.renderer,80, 200, 120, 1.0);
 			else
-				SDL_SetRenderDrawColor(instance.renderer, 0, 0, 0x88, 0xFF);
+				SDL_SetRenderDrawColor(instance.renderer, 255, 255, 0);
 			break;
 		case '4':
 			/* Goldenrod Yellow  */
 			if (hit_side == 0)
 				SDL_SetRenderDrawColor(instance.renderer, 218, 165, 32, 1.0);
 			else
-				SDL_SetRenderDrawColor(instance.renderer, 0x88, 0x88, 0, 0xFF);
+				SDL_SetRenderDrawColor(instance.renderer, 255, 255, 0);
 			break;
 		default:
 			/* Lavender Purple */
 			if (hit_side == 0)
 				SDL_SetRenderDrawColor(instance.renderer, 181, 126, 220, 1.0);
 			else
-				SDL_SetRenderDrawColor(instance.renderer, 0x88, 0x88, 0x88, 0xFF);
+				SDL_SetRenderDrawColor(instance.renderer, 255, 255, 0);
 			break;
 		}
 }
