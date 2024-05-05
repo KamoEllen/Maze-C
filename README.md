@@ -18,7 +18,7 @@ Find the end of the maze by navigating through it. Arrow keys move and rotate th
 ![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
 
 ## MAze
-![The Maze]([https://i.imgur.com/t0MxNni.png](https://github.com/KamoEllen/Maze-Project_page/blob/main/hero.png))
+![The Maze](https://github.com/KamoEllen/Maze-C/blob/main/maze.png)
 
 
 ## References
