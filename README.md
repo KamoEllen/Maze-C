@@ -30,11 +30,13 @@ This project was completed as part of the curriculum for _Alx-Africa_, a full-st
 
 **Map File Characters' in Game Meanings**
 - **0**: Floor/walkable space
-- **2**: Red Wall
-- **1**: Green Wall
-- **3**: Blue Wall
-- **4**: Yellow Wall
+- **2**: Champagne Pink or Red Wall
+- **1**: Sapphire Blue or Yellow Wall
+- **3**: Emerald Green or Yellow Wall
+- **4**: Goldenrod Yellow or Yellow Wall
 - **w**: End goal
 - **p**: Player start position
-- All other characters will be defaulted to white walls
+- All other characters will be defaulted to Lavender Purple or Yellow walls
+
+
 
