@@ -17,6 +17,10 @@ Find the end of the maze by navigating through it. Arrow keys move and rotate th
 ## Flowchart
 ![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
 
+## MAze
+![The Maze]([https://i.imgur.com/t0MxNni.png](https://github.com/KamoEllen/Maze-Project_page/blob/main/hero.png))
+
+
 ## References
 - [Lazyfoo SDL Tutorials](http://lazyfoo.net/tutorials/SDL/index.php#Event%20Driven%20Programming)
 - [3DSage OpenGL Raycaster](https://www.youtube.com/watch?v=gYRrGTC7GtA)
@@ -34,43 +38,3 @@ This project was completed as part of the curriculum for _Alx-Africa_, a full-st
 - **p**: Player start position
 - All other characters will be defaulted to white walls
 
-  idea for maze
-  2222222222222222
-20000000000000002
- 20p00000000000002
-  20000002200000002
-   20000022000000002
-    20000000000000002
-     2222222222222002
-                 2002
-                  2002
-                   2002
-                    20021111111101
-                     200000000001
-                      20011111111
-                       2002
-                        2002
-                         2002
-                          1111
-                           11
-
-  idea for presentation
-  44444444444444444444444444
-40000000000000000000000004
-40p00000000000000000000004
-40000000000000000000000004
-44444444443031111111111114
-          303
-          303
-          303
-          303333333333333333333
-          300000000000000000004
-          333333333333333333304
-4444444444444444444444444444404444444444444444444444444444444444444
-4000000000000000000000000000000000000000000400000000000000000000004
-4044444444444444444444444444444444444444440404444444444444444444444
-400000000
-
-
-#Open .o file
-https://stackoverflow.com/questions/36002159/how-to-open-o-file
